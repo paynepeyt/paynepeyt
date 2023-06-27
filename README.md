@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media.tenor.com/hwdrooD1pnAAAAAC/cod-calling-card.gif"  />
+  <img width="1050" height="250" src="https://media.tenor.com/hwdrooD1pnAAAAAC/cod-calling-card.gif"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Hey there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="20"> I'm Payne Peyton, a passionate learner and avid enthusiast of all things tech. I thrive on challenges and believe that the only limits we have are the ones we set for ourselves.</p>
+<h5 align="left">Hey there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="20"> I'm Payne Peyton, a passionate learner and avid enthusiast of all things tech. I thrive on challenges and believe that the only limits we have are the ones we set for ourselves.</h5>
 
 ###
 

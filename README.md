@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1050" height="250" src="https://media.tenor.com/hwdrooD1pnAAAAAC/cod-calling-card.gif"  />
+  <img width="1050" height="230" src="https://media.tenor.com/hwdrooD1pnAAAAAC/cod-calling-card.gif"  />
 </div>
 
 ###
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paynepeyt&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=paynepeyt&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="350" alt="stats graph"  />
 </div>
 
 ###

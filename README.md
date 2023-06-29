@@ -9,11 +9,11 @@
   </a>
 </div>
 
-<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="35">, I'm Payne</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30">, I'm Payne</h1>
 
 <h6 align="left">█▀▀█ █▀▀▄ █▀▀█ █░░█ ▀▀█▀▀ 　 █▀▄▀█ █▀▀ <br>█▄▄█ █▀▀▄ █░░█ █░░█ ░░█░░ 　 █░▀░█ █▀▀ <br>▀░░▀ ▀▀▀░ ▀▀▀▀ ░▀▀▀ ░░▀░░ 　 ▀░░░▀ ▀▀▀</h6>
 
-<h5 align="left">Hey there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="20"> I'm Payne Peyton, a passionate learner and avid enthusiast of all things tech. I thrive on challenges and believe that the only limits we have are the ones we set for ourselves.</h5>
+<h5 align="left">&ensp; &ensp; &ensp; Hey there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="12"> I'm Payne Peyton, a passionate learner and avid enthusiast of all things tech. I thrive on challenges and believe that the only limits we have are the ones we set for ourselves.</h5>
 
 <h6 align="left">█░░ █▀▀█ █▀▀▄ █▀▀▀ █░░█ █▀▀█ █▀▀▀ █▀▀ █▀▀ <br>█░░ █▄▄█ █░░█ █░▀█ █░░█ █▄▄█ █░▀█ █▀▀ ▀▀█ <br>▀▀▀ ▀░░▀ ▀░░▀ ▀▀▀▀ ░▀▀▀ ▀░░▀ ▀▀▀▀ ▀▀▀ ▀▀▀</h6>
 
